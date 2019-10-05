@@ -184,7 +184,7 @@ input:checked + .slider:before {
 
 ah {
    font: 20px Montserrat, sans-serif;
-	color: var(--font color);
+	    color: #777;
 	text-decoration: none;
 	font-weight: bold;
 	font-size:30px;
