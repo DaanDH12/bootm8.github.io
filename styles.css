@@ -183,11 +183,11 @@ input:checked + .slider:before {
 
 
 ah {
-   font: 15px Montserrat, sans-serif;
+   font: 15px Lato, sans-serif;
 	    color: #777;
 	text-decoration: none;
-	font-size:30px;
-	position: absolute;
+	font-size:45px;
+	font-weight: 300;	position: absolute;
 	padding-top: 15px;
 	left:10px;
 
